@@ -1,5 +1,3 @@
 # SNTC_Test
 
-# Last Moment Submission.. :P
-
-# Reached home at 11.51 PM
+This repository contains the solution for SNTC Test at IIT Mandi. 
